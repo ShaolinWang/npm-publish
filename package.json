@@ -1,0 +1,28 @@
+{
+  "name": "request-with-fetch",
+  "version": "1.0.0",
+  "description": "a request package based on fetch",
+  "main": "index.js",
+  "scripts": {
+    "test": "nonononono"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShaolinWang/npm-publish.git"
+  },
+  "keywords": [
+    "fetch",
+    "request"
+  ],
+  "author": "wangshaolin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShaolinWang/npm-publish/issues"
+  },
+  "homepage": "https://github.com/ShaolinWang/npm-publish#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.8.4",
+    "@babel/core": "^7.9.6",
+    "@babel/preset-env": "^7.9.6"
+  }
+}
