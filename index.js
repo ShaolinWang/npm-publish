@@ -1,5 +1,5 @@
 export default {
-  name: wangshaolin,
+  name: "wangshaolin",
   run: (arg) => {
     console.log(arg);
   }
