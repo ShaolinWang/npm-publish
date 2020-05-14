@@ -1,6 +1,6 @@
 {
   "name": "request-with-fetch",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a request package based on fetch",
   "main": "index.js",
   "scripts": {
